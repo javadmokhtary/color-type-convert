@@ -1,0 +1,31 @@
+{
+  "name": "color-type-convert",
+  "version": "0.0.1",
+  "description": "Color Type Convert Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javadmokhtary/color-type-convert.git"
+  },
+  "keywords": [
+    "color",
+    "convert",
+    "color-convert",
+    "hex-to-hsv",
+    "rgb-to-hsv",
+    "hex-to-rgb",
+    "hsv-to-hex",
+    "rgb-to-hex",
+    "hsv-to-rgb"
+  ],
+  "author": "usEr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javadmokhtary/color-type-convert.git/issues"
+  },
+  "homepage": "https://github.com/javadmokhtary/color-type-convert.git#readme",
+  "dependencies": {}
+}
