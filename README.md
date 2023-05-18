@@ -20,7 +20,7 @@ yarn add color-type-convert
 ### Hex To RGB:
 
 ```js
-const { hex2rgb } = require("color-type-convertclr-convert");
+const { hex2rgb } = require("color-type-convert");
 
 console.log(hex2rgb("#7288DA")); // Should output [114, 137, 218]
 ```
